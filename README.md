@@ -7,6 +7,8 @@
 
 ### 1. Sungei Buloh Wetland Reserve Wetland Centre 雙溪布洛濕地保護區
 
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/95e9122b-6e2a-4ce2-ab8b-538b875b393f)
+
 - 週一 ~ 週六：搭捷運到 `Kranji 克蘭芝 (NS7)` 站 或 `Woodlands 兀蘭 (NS9)` 站 -> `925` 號公車 -> `Kranji Reservoir Park B` 站下車，再徒步走到園區內。
 - 週日：搭捷運到 `Kranji` 站或 `Woodlands` 站 -> `925` 號公車 -> `Sungei Buloh Wetland Reserve` 站下車。
 
@@ -25,8 +27,12 @@
 
 ### 2. Singapore Botanic Gardens 新加坡植物園
 
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/4d7cb4ff-552e-41c3-9a76-fdf3b34e8aad)
+
 - 搭乘捷運 `Circle Line` 到 `Botanic Gardens (CC19)` 站下車。
 - 搭乘捷運 `Downtown Line` 到 `Botanic Gardens (DT9)` 站下車。
+- 舞台附近是熱點。
+- 植物園有多個出入口，可根據下個目的地走最近的出口出去。
 
 營業時間
 
@@ -35,23 +41,34 @@
 
 ### 3. Gardens by the Bay 濱海灣花園
 
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/3ce9a220-5747-41d7-b99a-90d85f2f3670)
+
 - 搭乘捷運 `North-South Line` 至 `Marina Bay 濱海灣 (NS27/CE2)` 站下車，再由 A 出口處搭乘 400 號巴士至濱海灣花園通道巴士站下車 (四個巴士站)。
 - 搭乘捷運 `Thomson-East Coast Line`，在 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
+- 不太有趣的點，走到 `Breakwater @ Marina East` 有機會撈到馬來鴴或白臉鴴。
 
 ### 4. Pasir Ris Town Park 白沙公園
+
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/847de92b-690f-459a-ac9d-b5d1dfe374d6)
 
 - 搭乘捷運 `East-West Line` 到 `Pasir Ris 巴西立 (EW1)` 站下車，再步行到 `Pasir Ris Town Park`。
 
 ### 5. Rifle Range Nature Park 射靶場自然公園
+
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/7d02f33c-8c9b-4135-8c43-d955e0a0112e)
 
 - 搭乘捷運經由 `Downtown Line` 往北到 `Beauty World 美世界 (DT5)` 站下車。
 - 入口在購物中心樓上。
 
 ### 6. Hindhede Nature Park 海希德自然公園
 
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/917c3af3-b5e2-434d-a45f-20aea4bb98bb)
+
 - 從 `Rifle Range Nature Park` 走步道過去，沿途的風景滿漂亮的。
 
 ### 7. Pulau Ubin 烏敏島
+
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/c7cfe7bb-4f4e-4e52-adfd-bdfc90739ed7)
 
 - 搭乘捷運到 `Tanah Merah 丹那美拉 (EW4)`，搭乘公車至 `Changi Village 樟宜村` 公共汽車轉換站，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
 - 搭乘渡船一次新幣 `4` 元，來回 `8` 元。
@@ -90,5 +107,7 @@
 ## 其他
 
 - 準備一些零錢，雖然到處都有販賣機，但有些販賣機不提供刷卡的。
-- 在新加坡的超市可以買到泰山八寶粥，一罐 1.2 新幣不貴，準備1~2罐放在背包，必要時可以補充體力，而且有懷念的台灣味道。
-- 不要買 ez-link 卡，用信用卡刷捷運就好。
+- 在新加坡的超市可以買到泰山八寶粥，一罐 1.2 新幣不貴，準備1~2罐放在背包，可充當午餐，吃起來有懷念的台灣味道。
+- 不需要買 ez-link 卡，用信用卡刷捷運就好。
+- 新加坡很熱，做好防曬，不要中暑了。
+- 下午很常下雷雨，覺得天氣怪怪的話，請趕快找好暫時躲避的地方。
