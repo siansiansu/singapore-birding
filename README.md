@@ -80,6 +80,17 @@
 
 - 早上 6:00 至晚上 11:00
 
+### 8. Singapore Quarry 新加坡採石場
+
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/9afce4df-4327-4d77-9904-146ab29d5688)
+
+我們選擇從 Hindhede Nature Park 走過去，但其實可以搭公車。
+
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/903f5a9b-f474-4145-94df-870b6274a78e)
+
+上圖圈起來的地方有一整排美食街，可以吃飯和休息。
+
+
 ## 鳥訊
 
 - [eBird](https://ebird.org/home)
