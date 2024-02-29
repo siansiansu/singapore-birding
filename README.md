@@ -27,11 +27,12 @@
 
 ### 2. Singapore Botanic Gardens 新加坡植物園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/4d7cb4ff-552e-41c3-9a76-fdf3b34e8aad)
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/7acc5de2-269d-433d-8dd9-f913c81f3952)
 
 - 搭乘捷運 `Circle Line` 到 `Botanic Gardens (CC19)` 站下車。
 - 搭乘捷運 `Downtown Line` 到 `Botanic Gardens (DT9)` 站下車。
 - 舞台附近是熱點。
+- 上圖圈起來是暫時可以休息上廁所的地方。
 - 植物園有多個出入口，可根據下個目的地走最近的出口出去。
 
 營業時間
@@ -41,7 +42,7 @@
 
 ### 3. Gardens by the Bay 濱海灣花園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/3ce9a220-5747-41d7-b99a-90d85f2f3670)
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/400584c2-62a2-4281-9f01-4066e2613b55)
 
 - 搭乘捷運 `North-South Line` 至 `Marina Bay 濱海灣 (NS27/CE2)` 站下車，再由 A 出口處搭乘 400 號巴士至濱海灣花園通道巴士站下車 (四個巴士站)。
 - 搭乘捷運 `Thomson-East Coast Line`，在 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
@@ -49,22 +50,24 @@
 
 ### 4. Pasir Ris Town Park 白沙公園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/847de92b-690f-459a-ac9d-b5d1dfe374d6)
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/be836991-e3f4-49c4-acd5-9c13449529f6)
 
 - 搭乘捷運 `East-West Line` 到 `Pasir Ris 巴西立 (EW1)` 站下車，再步行到 `Pasir Ris Town Park`。
 
 ### 5. Rifle Range Nature Park 射靶場自然公園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/7d02f33c-8c9b-4135-8c43-d955e0a0112e)
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/5a44d9b3-a557-48b9-afcc-9ab00ff0736a)
 
 - 搭乘捷運經由 `Downtown Line` 往北到 `Beauty World 美世界 (DT5)` 站下車。
+- 上圖圈起來是暫時可以休息上廁所的地方。
 - 入口在購物中心樓上。
 
 ### 6. Hindhede Nature Park 海希德自然公園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/917c3af3-b5e2-434d-a45f-20aea4bb98bb)
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/607d1ef4-2af5-4673-8677-d08f955a79ea)
 
 - 從 `Rifle Range Nature Park` 走步道過去，沿途的風景滿漂亮的。
+- 上圖圈起來是暫時可以休息上廁所的地方。
 
 ### 7. Pulau Ubin 烏敏島
 
