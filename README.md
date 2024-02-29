@@ -3,8 +3,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/singapore-birding)
 [![hackmd-github-sync-badge](https://hackmd.io/gW-duMSsQd6uO4A3hqBLAw/badge)](https://hackmd.io/gW-duMSsQd6uO4A3hqBLAw)
 
-![DSC07787-topaz-denoise-sharpen](https://github.com/siansiansu/singapore-birding/assets/33391637/ece11502-b70e-4f1c-87bf-6a7460f58fb4)
-
 ## 鳥點交通
 
 ### 1. Sungei Buloh Wetland Reserve Wetland Centre 雙溪布洛濕地保護區
