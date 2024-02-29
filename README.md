@@ -1,5 +1,8 @@
 # 新加坡自助賞鳥懶人包
 
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/singapore-birding)
+[![hackmd-github-sync-badge](https://hackmd.io/gW-duMSsQd6uO4A3hqBLAw/badge)](https://hackmd.io/gW-duMSsQd6uO4A3hqBLAw)
+
 ## 鳥點交通
 
 ### 1. Sungei Buloh Wetland Reserve Wetland Centre 雙溪布洛濕地保護區
