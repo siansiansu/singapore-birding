@@ -71,7 +71,7 @@
 
 ### 7. Pulau Ubin 烏敏島
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/c7cfe7bb-4f4e-4e52-adfd-bdfc90739ed7)
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/0f6f914c-f561-4fc8-82f8-be84424fa2f5)
 
 - 搭乘捷運到 `Tanah Merah 丹那美拉 (EW4)`，搭乘公車至 `Changi Village 樟宜村` 公共汽車轉換站，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
 - 搭乘渡船一次新幣 `4` 元，來回 `8` 元。
@@ -106,6 +106,7 @@
 - [松發肉骨茶](https://maps.app.goo.gl/eAjA1qTHd1pk76UX7)
 - [結霜橋叻沙](https://maps.app.goo.gl/yr9mPrJVLykoxUGGA)
 - [阿秋甜品](https://maps.app.goo.gl/PXHaC5UYdaPN5bzy8)
+- [天天海南雞飯](https://maps.app.goo.gl/DJPpG3c8wH1jSztz9)
 
 ## 其他
 
