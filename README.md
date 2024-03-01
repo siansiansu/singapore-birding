@@ -60,7 +60,7 @@
 
 - 搭乘捷運經由 `Downtown Line` 往北到 `Beauty World 美世界 (DT5)` 站下車。
 - 上圖圈起來是可以休息上廁所的地方。
-- 入口在購物中心樓上。
+- 入口在美世界購物中心樓上。
 
 ### 6. Hindhede Nature Park 海希德自然公園
 
@@ -99,11 +99,23 @@
 
 ### 10. Jurong Lake Gardens 裕廊湖花園
 
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/6ea742a6-82c7-430b-8a03-d4a7b1c245b2)
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/233278fa-9a92-41af-a5aa-a39a5b1f423e)
 
 - 搭乘 `East West Line` 線，至 `Lakeside 湖畔 (EW26)` 站下車，再走到 `Jurong Lake Gardens`。
 - 搭乘 `East West Line` 線，至 `Chinese Garden 裕華園 (EW25)` 站下車，再走到 `Jurong Lake Gardens`。
-- 附近有個科學博物館可以參觀或休息。
+- 上圖圈起來的地方是科學博物館，可以參觀或休息。
+
+### 11. Bukit Batok Nature Park 武吉巴督自然公園
+
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/4dd74738-e4a5-438d-8402-b6c50ca88176)
+
+- 搭乘捷運經由 `Downtown Line` 線到 `Beauty World 美世界 (DT5)` 站下車，再徒步或是搭乘公車至 `Bukit Batok Nature Park`。
+
+### 12. Hampstead Wetlands Park 翰仕德濕地公園
+
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/3f4a2540-7733-48a2-836c-677ae5ed7038)
+
+- 搭乘捷運經由 `North East Line` 線到 `Punggol 榜鵝 (NE17)` 站下車，再搭乘公車至 `Hampstead Wetlands Park`。
 
 ## 鳥訊
 
