@@ -48,6 +48,10 @@
 
 在園區裡面可以看到很多這種圓圓的東西，可以當作休息的據點。我們到達後會補充水分休息一下，慢慢前進，不然真的太熱了！
 
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/2181a6f5-63b2-43cc-8e11-19c3c9298139)
+
+園區裡面有兩個主要的休息點（上圖的紅色圈圈），都有販賣機和廁所。
+
 ### Singapore Botanic Gardens 新加坡植物園
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/7acc5de2-269d-433d-8dd9-f913c81f3952)
