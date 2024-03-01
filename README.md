@@ -134,16 +134,17 @@
 
 ## 吃吃喝喝
 
+- [328 Katong Laksa](https://maps.app.goo.gl/xCENg5HQ6SGiZU7EA)
 - [Crown Bakery & Cafe](https://maps.app.goo.gl/aZnEvVQ3KrrhMHXE9)
 - [Jia Bin Klang Bak Kut Teh 嘉宾 巴生肉骨茶](https://maps.app.goo.gl/oxaMjMNkq67RzeuJ8)
 - [The Coconut Club](https://maps.app.goo.gl/f8JuzfHxbfNmVCsk6)
 - [五十年代](https://maps.app.goo.gl/vcRTXFoSUoPsUiyj6)
 - [喜園](https://maps.app.goo.gl/a4eJK6GAAzdGAYmdA)
+- [天天海南雞飯](https://maps.app.goo.gl/DJPpG3c8wH1jSztz9)
 - [東亞餐室](https://maps.app.goo.gl/dS1mAjtC5JM5sm2F6)
 - [松發肉骨茶](https://maps.app.goo.gl/eAjA1qTHd1pk76UX7)
 - [結霜橋叻沙](https://maps.app.goo.gl/yr9mPrJVLykoxUGGA)
 - [阿秋甜品](https://maps.app.goo.gl/PXHaC5UYdaPN5bzy8)
-- [天天海南雞飯](https://maps.app.goo.gl/DJPpG3c8wH1jSztz9)
 
 ## 其他
 
