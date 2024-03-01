@@ -1,4 +1,4 @@
-# 新加坡自助賞鳥懶人包
+# 寫給賞鳥新人的賞鳥攻略 - 新加坡篇
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/singapore-birding)
 [![hackmd-github-sync-badge](https://hackmd.io/gW-duMSsQd6uO4A3hqBLAw/badge)](https://hackmd.io/gW-duMSsQd6uO4A3hqBLAw)
@@ -35,7 +35,7 @@
 
 - 搭乘捷運 `Circle Line` 到 `Botanic Gardens (CC19)` 站下車。
 - 搭乘捷運 `Downtown Line` 到 `Botanic Gardens (DT9)` 站下車。
-- 舞台附近是熱點。
+- 舞台附近是熱點，可以在這裡多等一下。
 - 上圖圈起來是可以休息上廁所的地方。
 - 植物園有多個出入口，可根據下個目的地走最近的出口出去。
 
@@ -50,7 +50,7 @@
 
 - 搭乘捷運 `North-South Line` 至 `Marina Bay 濱海灣 (NS27/CE2)` 站下車，再由 A 出口處搭乘 400 號巴士至濱海灣花園通道巴士站下車 (四個巴士站)。
 - 搭乘捷運 `Thomson-East Coast Line`，在 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
-- 不太有趣的點，走到 `Breakwater @ Marina East` 有機會撈到馬來鴴或白臉鴴。
+- 不太有趣的點，走一段距離到 `Breakwater @ Marina East` 有機會撈到馬來鴴或白臉鴴。
 
 ### 4. Pasir Ris Town Park 白沙公園
 
@@ -91,11 +91,11 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/9afce4df-4327-4d77-9904-146ab29d5688)
 
-我們選擇從 Hindhede Nature Park 走過去，但其實可以搭公車。
+我們選擇從 `Hindhede Nature Park` 走過去，雖然是平地，但距離也不近，如果還有其他行程的話建議搭公車，保留一點體力。
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/903f5a9b-f474-4145-94df-870b6274a78e)
 
-上圖圈起來的地方有一整排美食街，可以吃飯和休息。
+上圖圈起來的地方有一整排美食街，可以吃飯和休息。再往上就是捷運 `Hillview 山景 (DT3)` 站。
 
 ### 9. Windsor Nature Park 溫莎自然公園
 
