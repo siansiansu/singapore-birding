@@ -32,7 +32,7 @@
 - 搭乘捷運 `Circle Line` 到 `Botanic Gardens (CC19)` 站下車。
 - 搭乘捷運 `Downtown Line` 到 `Botanic Gardens (DT9)` 站下車。
 - 舞台附近是熱點。
-- 上圖圈起來是暫時可以休息上廁所的地方。
+- 上圖圈起來是可以休息上廁所的地方。
 - 植物園有多個出入口，可根據下個目的地走最近的出口出去。
 
 營業時間
@@ -59,7 +59,7 @@
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/5a44d9b3-a557-48b9-afcc-9ab00ff0736a)
 
 - 搭乘捷運經由 `Downtown Line` 往北到 `Beauty World 美世界 (DT5)` 站下車。
-- 上圖圈起來是暫時可以休息上廁所的地方。
+- 上圖圈起來是可以休息上廁所的地方。
 - 入口在購物中心樓上。
 
 ### 6. Hindhede Nature Park 海希德自然公園
@@ -67,7 +67,7 @@
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/607d1ef4-2af5-4673-8677-d08f955a79ea)
 
 - 從 `Rifle Range Nature Park` 走步道過去，沿途的風景滿漂亮的。
-- 上圖圈起來是暫時可以休息上廁所的地方。
+- 上圖圈起來是可以休息上廁所的地方。
 
 ### 7. Pulau Ubin 烏敏島
 
@@ -103,6 +103,7 @@
 
 - 搭乘 `East West Line` 線，至 `Lakeside 湖畔 (EW26)` 站下車，再走到 `Jurong Lake Gardens`。
 - 搭乘 `East West Line` 線，至 `Chinese Garden 裕華園 (EW25)` 站下車，再走到 `Jurong Lake Gardens`。
+- 附近有個科學博物館可以參觀或休息。
 
 ## 鳥訊
 
@@ -138,4 +139,4 @@
 - 在新加坡的超市可以買到泰山八寶粥，沒錯！就是泰山八寶粥，一罐 1.2 新幣不貴，準備1~2罐放在背包，可充當午餐，吃起來有懷念的台灣味道。
 - 不需要買 ez-link 卡，用信用卡刷捷運就好。
 - 新加坡很熱，做好防曬，不要中暑了。
-- 下午很常下雷雨，覺得天氣哪裡怪怪的話，請趕快找好暫時躲避的地方。
+- 下午很常下雷雨，覺得天氣哪裡怪怪的話，請趕快找好躲避的地方。
