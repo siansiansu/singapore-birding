@@ -25,6 +25,10 @@
 - 園區完整逛完需要一整天的時間。
 - 下午常有大雷雨，如果覺得天色怪怪的請趕快離開園區。
 
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/48d727ff-1d8a-4387-82b0-19341a0f72cb)
+
+在園區裡面可以看到很多這種圓圓的東西，可以當作休息的據點。我們到達後會補充水分休息一下，慢慢前進，不然真的太熱了！
+
 ### 2. Singapore Botanic Gardens 新加坡植物園
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/7acc5de2-269d-433d-8dd9-f913c81f3952)
