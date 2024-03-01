@@ -94,8 +94,15 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/b122dfb2-7c09-4560-b8e4-dc267d5df76e)
 
-- 搭乘 `Thomson East Coast Line` 線，至 `Upper Thomson 湯申路上段 (TE8)`站下車，再徒步或是搭乘公車至 Windsor Nature Park。
-- 搭乘 `Thomson East Coast Line` 線，至 `Bright Hill 光明山 (TE7)`站下車，再徒步或是搭乘公車至 Windsor Nature Park。
+- 搭乘 `Thomson East Coast Line` 線，至 `Upper Thomson 湯申路上段 (TE8)`站下車，再徒步或是搭乘公車至 `Windsor Nature Park`。
+- 搭乘 `Thomson East Coast Line` 線，至 `Bright Hill 光明山 (TE7)`站下車，再徒步或是搭乘公車至 `Windsor Nature Park`。
+
+### 10. Jurong Lake Gardens 裕廊湖花園
+
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/6ea742a6-82c7-430b-8a03-d4a7b1c245b2)
+
+- 搭乘 `East West Line` 線，至 `Lakeside 湖畔 (EW26)` 站下車，再走到 `Jurong Lake Gardens`。
+- 搭乘 `East West Line` 線，至 `Chinese Garden 裕華園 (EW25)` 站下車，再走到 `Jurong Lake Gardens`。
 
 ## 鳥訊
 
