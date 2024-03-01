@@ -74,6 +74,7 @@
 
 - 從 `Rifle Range Nature Park` 走步道過去，沿途的風景滿漂亮的。
 - 上圖圈起來是可以休息上廁所的地方。
+- 步道兩旁注意一下，有機會撈到 pitta。
 
 ### 7. Pulau Ubin 烏敏島
 
