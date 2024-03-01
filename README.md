@@ -61,6 +61,7 @@
 - 搭乘捷運經由 `Downtown Line` 往北到 `Beauty World 美世界 (DT5)` 站下車。
 - 上圖圈起來是可以休息上廁所的地方。
 - 入口在美世界購物中心樓上。
+- `Rifle Range Nature Park` 連同 `Hindhede Nature Park` 和 `Bukit Batok Nature Park` 可以一起逛，可以抓至少一天的時間賞鳥。
 
 ### 6. Hindhede Nature Park 海希德自然公園
 
