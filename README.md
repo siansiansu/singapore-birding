@@ -144,6 +144,7 @@
 - [天天海南雞飯](https://maps.app.goo.gl/DJPpG3c8wH1jSztz9)
 - [東亞餐室](https://maps.app.goo.gl/dS1mAjtC5JM5sm2F6)
 - [松發肉骨茶](https://maps.app.goo.gl/eAjA1qTHd1pk76UX7)
+- [林志源肉乾](https://maps.app.goo.gl/6rJKzWR8ztSoLvJx6)
 - [結霜橋叻沙](https://maps.app.goo.gl/yr9mPrJVLykoxUGGA)
 - [阿秋甜品](https://maps.app.goo.gl/PXHaC5UYdaPN5bzy8)
 
