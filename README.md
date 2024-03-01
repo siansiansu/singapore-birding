@@ -12,7 +12,7 @@
 - 週一 ~ 週六：搭捷運到 `Kranji 克蘭芝 (NS7)` 站 或 `Woodlands 兀蘭 (NS9)` 站 -> `925` 號公車 -> `Kranji Reservoir Park B` 站下車，再徒步走到園區內。
 - 週日：搭捷運到 `Kranji` 站或 `Woodlands` 站 -> `925` 號公車 -> `Sungei Buloh Wetland Reserve` 站下車。
 
-#### 注意事項
+注意事項
 
 - 週一到週六公車只會到 `Kranji Reservoir Park B`，之後要自己走到保護區內，只有週日有直達園區內。
 - 路旁砂石車很多，要小心！
@@ -73,7 +73,7 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/0f6f914c-f561-4fc8-82f8-be84424fa2f5)
 
-- 搭乘捷運到 `Tanah Merah 丹那美拉 (EW4)`，搭乘公車至 `Changi Village 樟宜村` 公共汽車轉換站，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
+- 搭乘捷運到 `Tanah Merah 丹那美拉 (EW4)` 站，搭乘公車至 `Changi Village 樟宜村` 公共汽車轉換站，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
 - 搭乘渡船一次新幣 `4` 元，來回 `8` 元。
 
 營業時間
@@ -90,6 +90,12 @@
 
 上圖圈起來的地方有一整排美食街，可以吃飯和休息。
 
+### 9. Windsor Nature Park 溫莎自然公園
+
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/b122dfb2-7c09-4560-b8e4-dc267d5df76e)
+
+- 搭乘 `Thomson East Coast Line` 線，至 `Upper Thomson 湯申路上段 (TE8)`站下車，再徒步或是搭乘公車至 Windsor Nature Park。
+- 搭乘 `Thomson East Coast Line` 線，至 `Bright Hill 光明山 (TE7)`站下車，再徒步或是搭乘公車至 Windsor Nature Park。
 
 ## 鳥訊
 
@@ -122,7 +128,7 @@
 ## 其他
 
 - 準備一些零錢，雖然到處都有販賣機，但有些販賣機不提供刷卡的。
-- 在新加坡的超市可以買到泰山八寶粥，一罐 1.2 新幣不貴，準備1~2罐放在背包，可充當午餐，吃起來有懷念的台灣味道。
+- 在新加坡的超市可以買到泰山八寶粥，沒錯！就是泰山八寶粥，一罐 1.2 新幣不貴，準備1~2罐放在背包，可充當午餐，吃起來有懷念的台灣味道。
 - 不需要買 ez-link 卡，用信用卡刷捷運就好。
 - 新加坡很熱，做好防曬，不要中暑了。
-- 下午很常下雷雨，覺得天氣怪怪的話，請趕快找好暫時躲避的地方。
+- 下午很常下雷雨，覺得天氣哪裡怪怪的話，請趕快找好暫時躲避的地方。
