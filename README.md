@@ -33,12 +33,12 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/95e9122b-6e2a-4ce2-ab8b-538b875b393f)
 
-交通：
+交通
 
 - 週一 ~ 週六：搭捷運到 `Kranji 克蘭芝 (NS7)` 站 或 `Woodlands 兀蘭 (NS9)` 站 -> `925` 號公車 -> `Kranji Reservoir Park B` 站下車，再徒步走到園區內。
 - 週日：搭捷運到 `Kranji` 站或 `Woodlands` 站 -> `925` 號公車 -> `Sungei Buloh Wetland Reserve` 站下車。
 
-補充：
+補充
 
 - 週一到週六公車只會到 `Kranji Reservoir Park B`，之後要自己走到保護區內，只有週日有直達園區內。
 - 路旁砂石車很多，要小心！
@@ -63,12 +63,12 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/7acc5de2-269d-433d-8dd9-f913c81f3952)
 
-交通：
+交通
 
 - 搭乘捷運 `Circle Line` 到 `Botanic Gardens 植物園 (CC19)` 站下車。
 - 搭乘捷運 `Downtown Line` 到 `Botanic Gardens 植物園 (DT9)` 站下車。
 
-補充：
+補充
 
 - 中央舞台附近是熱點，可以在這裡多等一下。
 - 上圖圈起來是可以休息上廁所的地方。
@@ -85,12 +85,12 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/400584c2-62a2-4281-9f01-4066e2613b55)
 
-交通：
+交通
 
 - 搭乘捷運 `North-South Line` 至 `Marina Bay 濱海灣 (NS27/CE2)` 站下車，再走到`Gardens by the Bay 濱海灣花園 (TE22)` 站，或者接 `Thomson-East Coast Line` 線，坐到 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
 - 搭乘捷運 `Thomson-East Coast Line`，在 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
 
-補充：
+補充
 
 - 是個不太有趣的點，但對於沒在賞鳥的遊客來說很有趣，走一段距離到 `Breakwater @ Marina East` 有機會撈到馬來鴴或白臉鴴。
 
@@ -98,26 +98,32 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/be836991-e3f4-49c4-acd5-9c13449529f6)
 
-交通：
+交通
 
 - 搭乘捷運 `East-West Line` 到 `Pasir Ris 巴西立 (EW1)` 站下車，再步行到 `Pasir Ris Town Park`。
 
-補充：
+補充
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/ae3f078b-1f67-47c4-b0a8-0a27776c5132)
 
-因為交通的關係，上圖圈起來的這幾個賞鳥點可以安排在一起。
+上圖圈起來的地方可以一起逛。
 
 ### Pulau Ubin 烏敏島
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/0f6f914c-f561-4fc8-82f8-be84424fa2f5)
 
-- 搭乘捷運到 `Tanah Merah 丹那美拉 (EW4)` 站，搭乘公車至 `Changi Village 樟宜村` 公共汽車轉換站，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
+交通
+
+- 搭乘捷運到 `Tanah Merah 丹那美拉 (EW4)` 站，搭乘 `2` 號公車至 `Changi Village 樟宜村` 公共汽車轉運站，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
+- 如果從 `Pasir Ris Town Park 白沙公園` 過去的話，搭乘 `89` 號公車，到達 `Changi Village 樟宜村` 公共汽車轉運站後，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
+
+補充
+
 - 搭乘渡船一次新幣 `4` 元，來回 `8` 元。
 
 營業時間
 
-- 早上 6:00 至晚上 11:00
+- 早上 6:00 至晚上 11:00。
 
 ### Hampstead Wetlands Park 翰仕德濕地公園
 
@@ -129,17 +135,28 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/5a44d9b3-a557-48b9-afcc-9ab00ff0736a)
 
+交通
+
 - 搭乘捷運經由 `Downtown Line` 往北到 `Beauty World 美世界 (DT5)` 站下車。
+
+補充
+
 - 上圖圈起來是可以休息上廁所的地方。
 - 入口在美世界購物中心樓上。
 - 在購物中心可以上廁所和休息，準備好再出發。
-- `Rifle Range Nature Park` 連同 `Hindhede Nature Park` 和 `Bukit Batok Nature Park` 可以一起逛，可以抓至少一天的時間賞鳥。
+
+上圖圈起來的地方可以一起逛，至少抓一天的時間賞鳥。
 
 ### Hindhede Nature Park 海希德自然公園
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/607d1ef4-2af5-4673-8677-d08f955a79ea)
 
+交通
+
 - 從 `Rifle Range Nature Park` 走步道過去，沿途的風景滿漂亮的。
+
+補充
+
 - 上圖圈起來是可以休息上廁所的地方。
 - 步道兩旁注意一下，有機會撈到 pitta。
 
@@ -147,11 +164,15 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/9afce4df-4327-4d77-9904-146ab29d5688)
 
+交通
+
 我們選擇從 `Hindhede Nature Park` 走過去，雖然是平地，但距離也不近，如果還有其他行程的話建議搭公車，保留一點體力。
+
+補充
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/903f5a9b-f474-4145-94df-870b6274a78e)
 
-上圖圈起來的地方有一整排美食街，可以吃飯和休息。再往上就是捷運 `Hillview 山景 (DT3)` 站。
+上圖圈起來的地方有一整排美食街，可以吃飯和休息。再往上就是捷運 `Hillview 山景 (DT3)` 站，從那裡搭車回家。
 
 ### Windsor Nature Park 溫莎自然公園
 
