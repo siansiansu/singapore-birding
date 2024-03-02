@@ -33,8 +33,6 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/95e9122b-6e2a-4ce2-ab8b-538b875b393f)
 
-交通
-
 - 週一 ~ 週六：搭捷運到 `Kranji 克蘭芝 (NS7)` 站 或 `Woodlands 兀蘭 (NS9)` 站 -> `925` 號公車 -> `Kranji Reservoir Park B` 站下車，再徒步走到園區內。
 - 週日：搭捷運到 `Kranji 克蘭芝 (NS7)` 站或 `Woodlands 兀蘭 (NS9)` 站 -> `925` 號公車 -> `Sungei Buloh Wetland Reserve` 站下車。
 
@@ -63,8 +61,6 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/7acc5de2-269d-433d-8dd9-f913c81f3952)
 
-交通
-
 - 搭乘捷運 `Circle Line` 到 `Botanic Gardens 植物園 (CC19)` 站下車。
 - 搭乘捷運 `Downtown Line` 到 `Botanic Gardens 植物園 (DT9)` 站下車。
 
@@ -76,7 +72,7 @@
 - 如果旅程安排的時間不長，可以直接來植物園賞鳥，這裡離市區很近、步道好走，而且鳥比較密集。
 - 植物園有多個出入口，可根據下個目的地走最近的出口出去。
 
-營業時間：
+營業時間
 
 - `Singapore Botanic Gardens`: 05:00 - 00:00。
 - `National Orchid Garden`: 08:30 - 19:00，門票 5 新幣，折合台幣大約是 115 元。
@@ -84,8 +80,6 @@
 ### Gardens by the Bay 濱海灣花園
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/400584c2-62a2-4281-9f01-4066e2613b55)
-
-交通
 
 - 搭乘捷運 `North-South Line` 至 `Marina Bay 濱海灣 (NS27/CE2)` 站下車，再走到 `Gardens by the Bay 濱海灣花園 (TE22)` 站，或者接 `Thomson-East Coast Line` 線，坐到 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
 - 搭乘捷運 `Thomson-East Coast Line`，在 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
@@ -98,8 +92,6 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/be836991-e3f4-49c4-acd5-9c13449529f6)
 
-交通
-
 - 搭乘捷運 `East-West Line` 到 `Pasir Ris 巴西立 (EW1)` 站下車，再步行到 `Pasir Ris Town Park`。
 
 補充
@@ -111,8 +103,6 @@
 ### Pulau Ubin 烏敏島
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/0f6f914c-f561-4fc8-82f8-be84424fa2f5)
-
-交通
 
 - 從 `Pasir Ris Town Park 白沙公園` 過去的話，搭乘 `89` 號公車，到達 `Changi Village 樟宜村` 公共汽車轉運站後，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
 - 搭乘捷運到 `Tanah Merah 丹那美拉 (EW4)` 站，搭乘 `2` 號公車至 `Changi Village 樟宜村` 公共汽車轉運站，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
@@ -135,8 +125,6 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/5a44d9b3-a557-48b9-afcc-9ab00ff0736a)
 
-交通
-
 - 搭乘捷運經由 `Downtown Line` 往北到 `Beauty World 美世界 (DT5)` 站下車。
 
 補充
@@ -153,8 +141,6 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/607d1ef4-2af5-4673-8677-d08f955a79ea)
 
-交通
-
 - 從 `Rifle Range Nature Park` 走步道過去，沿途的風景滿漂亮的。
 
 補充
@@ -165,8 +151,6 @@
 ### Singapore Quarry 新加坡採石場
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/9afce4df-4327-4d77-9904-146ab29d5688)
-
-交通
 
 我們選擇從 `Hindhede Nature Park` 走過去，雖然是平地，但距離也不近，如果還有其他行程的話建議搭公車，保留一點體力。
 
@@ -180,15 +164,11 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/4dd74738-e4a5-438d-8402-b6c50ca88176)
 
-交通
-
 - 搭乘捷運經由 `Downtown Line` 線到 `Beauty World 美世界 (DT5)` 站下車，再徒步或是搭乘公車至 `Bukit Batok Nature Park`。
 
 ### Windsor Nature Park 溫莎自然公園
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/b122dfb2-7c09-4560-b8e4-dc267d5df76e)
-
-交通
 
 - 搭乘 `Thomson East Coast Line` 線，至 `Upper Thomson 湯申路上段 (TE8)` 站下車，再徒步或是搭乘公車至 `Windsor Nature Park`。
 - 搭乘 `Thomson East Coast Line` 線，至 `Bright Hill 光明山 (TE7)` 站下車，再徒步或是搭乘公車至 `Windsor Nature Park`。
@@ -196,8 +176,6 @@
 ### Jurong Lake Gardens 裕廊湖花園
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/233278fa-9a92-41af-a5aa-a39a5b1f423e)
-
-交通
 
 - 搭乘 `East West Line` 線，至 `Chinese Garden 裕華園 (EW25)` 站下車，再走到 `Jurong Lake Gardens`。
 - 搭乘 `East West Line` 線，至 `Lakeside 湖畔 (EW26)` 站下車，再走到 `Jurong Lake Gardens`。
