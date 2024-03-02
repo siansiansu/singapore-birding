@@ -104,7 +104,9 @@
 
 補充：
 
-因為交通比較順，上圖這幾個賞鳥點可以安排在一起。
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/ae3f078b-1f67-47c4-b0a8-0a27776c5132)
+
+因為交通的關係，上圖圈起來的這幾個賞鳥點可以安排在一起。
 
 ### Pulau Ubin 烏敏島
 
