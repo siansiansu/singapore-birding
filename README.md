@@ -7,20 +7,25 @@
 
 附上新加坡主要的 12 個鳥點，如果時間不夠的話，就先從這邊開始逛吧！
 
-因為時間的關係，我們也沒有每個點都去，我在這裡附上地圖的連結，看完有興趣的話再來安排行程吧！
-
-1. [Sungei Buloh Wetland Reserve](https://maps.app.goo.gl/J3fFpT4gUpZpspf37)
-2. [Kranji Marshes](https://maps.app.goo.gl/ExHzCbTXiCV4afPf9)
-3. [Jurong Lake Gardens](https://maps.app.goo.gl/i1xoRCjerseRjjMe9)
-4. [Bukit Batok Nature Park](https://maps.app.goo.gl/N8i5mEUYwE4EFUQ68)
-5. [Bukit Timah Nature Reserve](https://maps.app.goo.gl/1DwGAyzy4DrHy9qu8)
-6. [Central Catchment Park Connector](https://maps.app.goo.gl/xBHYKziFPis4AWxh8)
-7. [Windsor Nature Park](https://maps.app.goo.gl/pPtcFnXBgSkw7vAQ7)
-8. [Singapore Botanic Gardens](https://maps.app.goo.gl/NToKovRUcvbZimt26)
-9. [Hampstead Wetlands Park](https://maps.app.goo.gl/xnXpcTf5AKsFCuUY7)
-10. [Pulau Ubin](https://maps.app.goo.gl/sGucFnZf1XD7q6C86)
-11. [Pasir Ris Park](https://maps.app.goo.gl/D7QBPAnipD8tGac1A)
-12. [Lorong Halus Wetlands](https://maps.app.goo.gl/EiWT5U8QDwu7ZxxW8)
+1. [Sungei Buloh Wetland Reserve 雙溪布洛濕地保護區](https://maps.app.goo.gl/J3fFpT4gUpZpspf37)
+2. [Kranji Marshes 克蘭芝濕地](https://maps.app.goo.gl/ExHzCbTXiCV4afPf9)
+3. [Jurong Lake Gardens 裕廊湖花園](https://maps.app.goo.gl/i1xoRCjerseRjjMe9)
+4. [Bukit Batok Nature Park 武吉巴督自然公園](https://maps.app.goo.gl/N8i5mEUYwE4EFUQ68)
+5. [Bukit Timah Nature Reserve 武吉知馬自然保護區](https://maps.app.goo.gl/1DwGAyzy4DrHy9qu8)
+   - [Dairy Farm Nature Park 奶牛農場自然公園](https://maps.app.goo.gl/FSqP87hoXocpQjKz9)
+   - [Hindhede Nature Park 海希德自然公園](https://maps.app.goo.gl/EhbgXGa87ubwZExk9)
+   - [Rifle Range Nature Park 射靶場自然公園](https://maps.app.goo.gl/cbCPg5X9CvSXk19P6)
+   - [Singapore Quarry 新加坡採石場](https://maps.app.goo.gl/1TSrF9PtEte6EfAc9)
+6. [Central Catchment Nature Reserve 中央集水區自然保護區](https://maps.app.goo.gl/xBHYKziFPis4AWxh8)
+   - [Bird Paradise 飛禽世界](https://maps.app.goo.gl/6mCToeubPUsZWPvY8)
+   - [Night Safari 夜間動物園](https://maps.app.goo.gl/oDjc8Pbk7GhPwqsp8)
+   - [Singapore Zoo 新加坡動物園](https://maps.app.goo.gl/p8MQ9PvSsPkDCFEe8)
+7. [Windsor Nature Park 溫莎自然公園](https://maps.app.goo.gl/pPtcFnXBgSkw7vAQ7)
+8. [Singapore Botanic Gardens 新加坡植物園](https://maps.app.goo.gl/NToKovRUcvbZimt26)
+9. [Hampstead Wetlands Park 翰仕德濕地公園](https://maps.app.goo.gl/xnXpcTf5AKsFCuUY7)
+10. [Pulau Ubin 烏敏島](https://maps.app.goo.gl/sGucFnZf1XD7q6C86)
+11. [Pasir Ris Park 白沙公園](https://maps.app.goo.gl/D7QBPAnipD8tGac1A)
+12. [Lorong Halus Wetlands 羅弄哈魯士濕地](https://maps.app.goo.gl/EiWT5U8QDwu7ZxxW8)
 
 ## 鳥點交通
 
@@ -28,10 +33,12 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/95e9122b-6e2a-4ce2-ab8b-538b875b393f)
 
+交通：
+
 - 週一 ~ 週六：搭捷運到 `Kranji 克蘭芝 (NS7)` 站 或 `Woodlands 兀蘭 (NS9)` 站 -> `925` 號公車 -> `Kranji Reservoir Park B` 站下車，再徒步走到園區內。
 - 週日：搭捷運到 `Kranji` 站或 `Woodlands` 站 -> `925` 號公車 -> `Sungei Buloh Wetland Reserve` 站下車。
 
-注意事項
+補充：
 
 - 週一到週六公車只會到 `Kranji Reservoir Park B`，之後要自己走到保護區內，只有週日有直達園區內。
 - 路旁砂石車很多，要小心！
@@ -50,36 +57,71 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/2181a6f5-63b2-43cc-8e11-19c3c9298139)
 
-園區裡面有兩個主要的休息點（上圖的紅色圈圈），都有販賣機和廁所。
+園區裡面有兩個主要的休息點（上圖的紅色圈圈），都有販賣機、飲水機和廁所。
 
 ### Singapore Botanic Gardens 新加坡植物園
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/7acc5de2-269d-433d-8dd9-f913c81f3952)
 
-- 搭乘捷運 `Circle Line` 到 `Botanic Gardens (CC19)` 站下車。
-- 搭乘捷運 `Downtown Line` 到 `Botanic Gardens (DT9)` 站下車。
-- 舞台附近是熱點，可以在這裡多等一下。
+交通：
+
+- 搭乘捷運 `Circle Line` 到 `Botanic Gardens 植物園 (CC19)` 站下車。
+- 搭乘捷運 `Downtown Line` 到 `Botanic Gardens 植物園 (DT9)` 站下車。
+
+補充：
+
+- 中央舞台附近是熱點，可以在這裡多等一下。
 - 上圖圈起來是可以休息上廁所的地方。
 - 植物園有多個出入口，可根據下個目的地走最近的出口出去。
+- 如果旅程安排的時間不長，可以直接來植物園賞鳥，這裡離市區很近、步道好走，而且鳥比較密集。
+- 只是單純賞鳥的話，`National Orchid Garden`可以不用去。
 
-營業時間
+營業時間：
 
 - `Singapore Botanic Gardens`: 05:00 - 00:00。
-- `National Parks Board`: 08:30 - 19:00，門票 5 新幣，折合台幣大約是 115 元。
+- `National Orchid Garden`: 08:30 - 19:00，門票 5 新幣，折合台幣大約是 115 元。
 
 ### Gardens by the Bay 濱海灣花園
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/400584c2-62a2-4281-9f01-4066e2613b55)
 
-- 搭乘捷運 `North-South Line` 至 `Marina Bay 濱海灣 (NS27/CE2)` 站下車，再由 A 出口處搭乘 400 號巴士至濱海灣花園通道巴士站下車 (四個巴士站)。
+交通：
+
+- 搭乘捷運 `North-South Line` 至 `Marina Bay 濱海灣 (NS27/CE2)` 站下車，再走到`Gardens by the Bay 濱海灣花園 (TE22)` 站，或者接 `Thomson-East Coast Line` 線，坐到 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
 - 搭乘捷運 `Thomson-East Coast Line`，在 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
-- 不太有趣的點，走一段距離到 `Breakwater @ Marina East` 有機會撈到馬來鴴或白臉鴴。
+
+補充：
+
+- 是個不太有趣的點，但對於沒在賞鳥的遊客來說很有趣，走一段距離到 `Breakwater @ Marina East` 有機會撈到馬來鴴或白臉鴴。
 
 ### Pasir Ris Town Park 白沙公園
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/be836991-e3f4-49c4-acd5-9c13449529f6)
 
+交通：
+
 - 搭乘捷運 `East-West Line` 到 `Pasir Ris 巴西立 (EW1)` 站下車，再步行到 `Pasir Ris Town Park`。
+
+補充：
+
+因為交通比較順，上圖這幾個賞鳥點可以安排在一起。
+
+### Pulau Ubin 烏敏島
+
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/0f6f914c-f561-4fc8-82f8-be84424fa2f5)
+
+- 搭乘捷運到 `Tanah Merah 丹那美拉 (EW4)` 站，搭乘公車至 `Changi Village 樟宜村` 公共汽車轉換站，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
+- 搭乘渡船一次新幣 `4` 元，來回 `8` 元。
+
+營業時間
+
+- 早上 6:00 至晚上 11:00
+
+### Hampstead Wetlands Park 翰仕德濕地公園
+
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/3f4a2540-7733-48a2-836c-677ae5ed7038)
+
+- 搭乘捷運經由 `North East Line` 線到 `Punggol 榜鵝 (NE17)` 站下車，再搭乘公車至 `Hampstead Wetlands Park`。
 
 ### Rifle Range Nature Park 射靶場自然公園
 
@@ -98,17 +140,6 @@
 - 從 `Rifle Range Nature Park` 走步道過去，沿途的風景滿漂亮的。
 - 上圖圈起來是可以休息上廁所的地方。
 - 步道兩旁注意一下，有機會撈到 pitta。
-
-### Pulau Ubin 烏敏島
-
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/0f6f914c-f561-4fc8-82f8-be84424fa2f5)
-
-- 搭乘捷運到 `Tanah Merah 丹那美拉 (EW4)` 站，搭乘公車至 `Changi Village 樟宜村` 公共汽車轉換站，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
-- 搭乘渡船一次新幣 `4` 元，來回 `8` 元。
-
-營業時間
-
-- 早上 6:00 至晚上 11:00
 
 ### Singapore Quarry 新加坡採石場
 
@@ -140,12 +171,6 @@
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/4dd74738-e4a5-438d-8402-b6c50ca88176)
 
 - 搭乘捷運經由 `Downtown Line` 線到 `Beauty World 美世界 (DT5)` 站下車，再徒步或是搭乘公車至 `Bukit Batok Nature Park`。
-
-### Hampstead Wetlands Park 翰仕德濕地公園
-
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/3f4a2540-7733-48a2-836c-677ae5ed7038)
-
-- 搭乘捷運經由 `North East Line` 線到 `Punggol 榜鵝 (NE17)` 站下車，再搭乘公車至 `Hampstead Wetlands Park`。
 
 ## 鳥訊
 
