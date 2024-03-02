@@ -83,9 +83,6 @@
 
 - 搭乘捷運 `North-South Line` 至 `Marina Bay 濱海灣 (NS27/CE2)` 站下車，再走到 `Gardens by the Bay 濱海灣花園 (TE22)` 站，或者接 `Thomson-East Coast Line` 線，坐到 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
 - 搭乘捷運 `Thomson-East Coast Line`，在 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
-
-補充
-
 - 是個不太有趣的點，但對於一般來觀光的遊客來說很有趣，走一段距離到 `Breakwater @ Marina East` 有機會撈到馬來鴴或白臉鴴。
 
 ### Pasir Ris Town Park 白沙公園
@@ -93,8 +90,6 @@
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/be836991-e3f4-49c4-acd5-9c13449529f6)
 
 - 搭乘捷運 `East-West Line` 到 `Pasir Ris 巴西立 (EW1)` 站下車，再步行到 `Pasir Ris Town Park`。
-
-補充
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/ae3f078b-1f67-47c4-b0a8-0a27776c5132)
 
@@ -106,9 +101,6 @@
 
 - 從 `Pasir Ris Town Park 白沙公園` 過去的話，搭乘 `89` 號公車，到達 `Changi Village 樟宜村` 公共汽車轉運站後，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
 - 搭乘捷運到 `Tanah Merah 丹那美拉 (EW4)` 站，搭乘 `2` 號公車至 `Changi Village 樟宜村` 公共汽車轉運站，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
-
-補充
-
 - 搭乘渡船一次新幣 `4` 元，來回 `8` 元。
 
 營業時間
@@ -126,9 +118,6 @@
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/5a44d9b3-a557-48b9-afcc-9ab00ff0736a)
 
 - 搭乘捷運經由 `Downtown Line` 往北到 `Beauty World 美世界 (DT5)` 站下車。
-
-補充
-
 - 上圖圈起來是可以休息上廁所的地方。
 - 入口在美世界購物中心樓上。
 - 在購物中心可以上廁所和休息，準備好再出發。
@@ -142,9 +131,6 @@
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/607d1ef4-2af5-4673-8677-d08f955a79ea)
 
 - 從 `Rifle Range Nature Park` 走步道過去，沿途的風景滿漂亮的。
-
-補充
-
 - 上圖圈起來是可以休息上廁所的地方。
 - 步道兩旁注意一下，有機會撈到 pitta。
 
@@ -153,8 +139,6 @@
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/9afce4df-4327-4d77-9904-146ab29d5688)
 
 我們選擇從 `Hindhede Nature Park` 走過去，雖然是平地，但距離也不近，如果還有其他行程的話建議搭公車，保留一點體力。
-
-補充
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/903f5a9b-f474-4145-94df-870b6274a78e)
 
@@ -179,9 +163,6 @@
 
 - 搭乘 `East West Line` 線，至 `Chinese Garden 裕華園 (EW25)` 站下車，再走到 `Jurong Lake Gardens`。
 - 搭乘 `East West Line` 線，至 `Lakeside 湖畔 (EW26)` 站下車，再走到 `Jurong Lake Gardens`。
-
-補充
-
 - 上圖圈起來的地方是科學博物館，可以參觀或休息。
 
 ## 鳥訊
