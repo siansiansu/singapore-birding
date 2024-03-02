@@ -145,6 +145,8 @@
 - 入口在美世界購物中心樓上。
 - 在購物中心可以上廁所和休息，準備好再出發。
 
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/d99a6b04-2e80-4f77-97cc-bd39ff1058f7)
+
 上圖圈起來的地方可以一起逛，至少抓一天的時間賞鳥。
 
 ### Hindhede Nature Park 海希德自然公園
