@@ -98,7 +98,7 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/ae3f078b-1f67-47c4-b0a8-0a27776c5132)
 
-上圖圈起來的地方可以一起逛。
+因為交通比較順的關係，上圖圈起來的地方可以安排在一起。
 
 ### Pulau Ubin 烏敏島
 
@@ -135,7 +135,7 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/d99a6b04-2e80-4f77-97cc-bd39ff1058f7)
 
-上圖圈起來的地方可以一起逛，至少抓一天的時間賞鳥。
+因為交通比較順的關係，上圖圈起來的地方可以安排在一起，不過至少要抓一整天的時間賞鳥。
 
 ### Hindhede Nature Park 海希德自然公園
 
