@@ -36,20 +36,20 @@
 交通
 
 - 週一 ~ 週六：搭捷運到 `Kranji 克蘭芝 (NS7)` 站 或 `Woodlands 兀蘭 (NS9)` 站 -> `925` 號公車 -> `Kranji Reservoir Park B` 站下車，再徒步走到園區內。
-- 週日：搭捷運到 `Kranji` 站或 `Woodlands` 站 -> `925` 號公車 -> `Sungei Buloh Wetland Reserve` 站下車。
+- 週日：搭捷運到 `Kranji 克蘭芝 (NS7)` 站或 `Woodlands 兀蘭 (NS9)` 站 -> `925` 號公車 -> `Sungei Buloh Wetland Reserve` 站下車。
 
 補充
 
-- 週一到週六公車只會到 `Kranji Reservoir Park B`，之後要自己走到保護區內，只有週日有直達園區內。
-- 路旁砂石車很多，要小心！
-- 公車會在這裡迴轉，注意回程時，有兩班公車都叫做 `925`，要坐終點站往 `Woodlands` 那一班。
-- 到站沒有廣播，記得看站牌。
-- 遊客中心裡面有個食堂，只有裡面才可以吃東西，其他地方都不行隨意飲食。
-- 園區內沒有供應食物，只有販賣機。
-- 入場免費，不用門票。
-- 公車服務時間：06:00 - 19:49，頻率：7 ~ 14 分。
-- 園區完整逛完需要一整天的時間。
 - 下午常有大雷雨，如果覺得天色怪怪的請趕快離開園區。
+- 入場免費，不用門票。
+- 公車會在這裡迴轉，注意回程時，有兩班公車都叫做 `925`，要坐終點站往 `Woodlands` 那一班。
+- 公車服務時間：06:00 - 19:49，頻率：7 ~ 14 分。
+- 到站沒有廣播，記得看站牌。
+- 園區內沒有供應食物，只有販賣機。
+- 園區完整逛完需要一整天的時間。
+- 路旁砂石車很多，要小心！
+- 週一到週六公車只會到 `Kranji Reservoir Park B`，之後要自己走到保護區內，只有週日有直達園區內。
+- 遊客中心裡面有個食堂，只有裡面才可以吃東西，其他地方都不行隨意飲食。
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/48d727ff-1d8a-4387-82b0-19341a0f72cb)
 
@@ -70,11 +70,11 @@
 
 補充
 
-- 中央舞台附近是熱點，可以在這裡多等一下。
 - 上圖圈起來是可以休息上廁所的地方。
-- 植物園有多個出入口，可根據下個目的地走最近的出口出去。
-- 如果旅程安排的時間不長，可以直接來植物園賞鳥，這裡離市區很近、步道好走，而且鳥比較密集。
+- 中央舞台附近是熱點，可以在這裡多等一下。
 - 只是單純賞鳥的話，`National Orchid Garden`可以不用去。
+- 如果旅程安排的時間不長，可以直接來植物園賞鳥，這裡離市區很近、步道好走，而且鳥比較密集。
+- 植物園有多個出入口，可根據下個目的地走最近的出口出去。
 
 營業時間：
 
@@ -87,12 +87,12 @@
 
 交通
 
-- 搭乘捷運 `North-South Line` 至 `Marina Bay 濱海灣 (NS27/CE2)` 站下車，再走到`Gardens by the Bay 濱海灣花園 (TE22)` 站，或者接 `Thomson-East Coast Line` 線，坐到 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
+- 搭乘捷運 `North-South Line` 至 `Marina Bay 濱海灣 (NS27/CE2)` 站下車，再走到 `Gardens by the Bay 濱海灣花園 (TE22)` 站，或者接 `Thomson-East Coast Line` 線，坐到 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
 - 搭乘捷運 `Thomson-East Coast Line`，在 `Gardens by the Bay 濱海灣花園 (TE22)` 站下車。
 
 補充
 
-- 是個不太有趣的點，但對於沒在賞鳥的遊客來說很有趣，走一段距離到 `Breakwater @ Marina East` 有機會撈到馬來鴴或白臉鴴。
+- 是個不太有趣的點，但對於一般來觀光的遊客來說很有趣，走一段距離到 `Breakwater @ Marina East` 有機會撈到馬來鴴或白臉鴴。
 
 ### Pasir Ris Town Park 白沙公園
 
@@ -114,8 +114,8 @@
 
 交通
 
+- 從 `Pasir Ris Town Park 白沙公園` 過去的話，搭乘 `89` 號公車，到達 `Changi Village 樟宜村` 公共汽車轉運站後，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
 - 搭乘捷運到 `Tanah Merah 丹那美拉 (EW4)` 站，搭乘 `2` 號公車至 `Changi Village 樟宜村` 公共汽車轉運站，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
-- 如果從 `Pasir Ris Town Park 白沙公園` 過去的話，搭乘 `89` 號公車，到達 `Changi Village 樟宜村` 公共汽車轉運站後，再走到 `Changi Point 樟宜碼頭`搭乘渡船。
 
 補充
 
@@ -176,37 +176,47 @@
 
 上圖圈起來的地方有一整排美食街，可以吃飯和休息。再往上就是捷運 `Hillview 山景 (DT3)` 站，從那裡搭車回家。
 
+### Bukit Batok Nature Park 武吉巴督自然公園
+
+![image](https://github.com/siansiansu/singapore-birding/assets/33391637/4dd74738-e4a5-438d-8402-b6c50ca88176)
+
+交通
+
+- 搭乘捷運經由 `Downtown Line` 線到 `Beauty World 美世界 (DT5)` 站下車，再徒步或是搭乘公車至 `Bukit Batok Nature Park`。
+
 ### Windsor Nature Park 溫莎自然公園
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/b122dfb2-7c09-4560-b8e4-dc267d5df76e)
 
-- 搭乘 `Thomson East Coast Line` 線，至 `Upper Thomson 湯申路上段 (TE8)`站下車，再徒步或是搭乘公車至 `Windsor Nature Park`。
-- 搭乘 `Thomson East Coast Line` 線，至 `Bright Hill 光明山 (TE7)`站下車，再徒步或是搭乘公車至 `Windsor Nature Park`。
+交通
+
+- 搭乘 `Thomson East Coast Line` 線，至 `Upper Thomson 湯申路上段 (TE8)` 站下車，再徒步或是搭乘公車至 `Windsor Nature Park`。
+- 搭乘 `Thomson East Coast Line` 線，至 `Bright Hill 光明山 (TE7)` 站下車，再徒步或是搭乘公車至 `Windsor Nature Park`。
 
 ### Jurong Lake Gardens 裕廊湖花園
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/233278fa-9a92-41af-a5aa-a39a5b1f423e)
 
-- 搭乘 `East West Line` 線，至 `Lakeside 湖畔 (EW26)` 站下車，再走到 `Jurong Lake Gardens`。
+交通
+
 - 搭乘 `East West Line` 線，至 `Chinese Garden 裕華園 (EW25)` 站下車，再走到 `Jurong Lake Gardens`。
+- 搭乘 `East West Line` 線，至 `Lakeside 湖畔 (EW26)` 站下車，再走到 `Jurong Lake Gardens`。
+
+補充
+
 - 上圖圈起來的地方是科學博物館，可以參觀或休息。
-
-### Bukit Batok Nature Park 武吉巴督自然公園
-
-![image](https://github.com/siansiansu/singapore-birding/assets/33391637/4dd74738-e4a5-438d-8402-b6c50ca88176)
-
-- 搭乘捷運經由 `Downtown Line` 線到 `Beauty World 美世界 (DT5)` 站下車，再徒步或是搭乘公車至 `Bukit Batok Nature Park`。
 
 ## 鳥訊
 
+- [Birds of Singapore](https://singaporebirds.com/)
 - [eBird](https://ebird.org/home)
 
 ### Facebook
 
-- [Singapore Birders](https://www.facebook.com/groups/singaporebirdgroup)
-- [Singapore Wildlife Sightings](https://www.facebook.com/groups/179531089457)
 - [Bird Sightings](https://www.facebook.com/groups/1407072732845076)
 - [Birding Singapore](https://www.facebook.com/birdingsg/)
+- [Singapore Birders](https://www.facebook.com/groups/singaporebirdgroup)
+- [Singapore Wildlife Sightings](https://www.facebook.com/groups/179531089457)
 
 ### Instagram
 
@@ -233,7 +243,8 @@
 - 不太清楚看到公車來要不招手，但我們都靠眼神。
 - 不需要買 ez-link 卡，用信用卡刷捷運就好。
 - 在新加坡的超市可以買到泰山八寶粥，沒錯！就是泰山八寶粥，一罐 1.2 新幣不貴，折和台幣大概 30 幾元，準備 1 ~ 2 罐放在背包，可充當午餐，吃起來有懷念的台灣味道。
-- 廁所提供的衛生紙很粗，不想弄傷屁股的話，就自己帶面紙或是找免治馬桶吧！
+- 廁所提供的衛生紙很粗喔，不想弄傷屁股的話，就自己帶面紙或是找免治馬桶吧！
+- 很多小吃攤都不供衛生紙，自己準備面紙擦嘴巴，濕紙巾擦手。
 - 新加坡很熱，做好防曬，不要中暑了。
 - 準備一些零錢，雖然到處都有販賣機，但有些販賣機不提供刷卡的。
 - 漫遊的話，用量其實不大，因為新加坡到處都可以連 Wi-Fi，再加上出發前已經查好交通，使用最基本的方案就可以了。
