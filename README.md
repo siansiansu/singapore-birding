@@ -5,7 +5,7 @@
 
 ![image](https://github.com/siansiansu/singapore-birding/assets/33391637/9d96b3da-3298-4890-b5e7-78295bb05a66)
 
-附上新加坡主要的 12 個鳥點，如果時間不夠的話，就先從這邊開始逛吧！
+這是新加坡主要的 12 個鳥點，如果是第一次去新加坡的話，就先從這邊開始逛吧！
 
 1. [Sungei Buloh Wetland Reserve 雙溪布洛濕地保護區](https://maps.app.goo.gl/J3fFpT4gUpZpspf37)
 2. [Kranji Marshes 克蘭芝濕地](https://maps.app.goo.gl/ExHzCbTXiCV4afPf9)
