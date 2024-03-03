@@ -168,21 +168,36 @@
 ## 鳥訊
 
 - [Birds of Singapore](https://singaporebirds.com/)
+- [Wiki - List of birds of Singapore](https://en.wikipedia.org/wiki/List_of_birds_of_Singapore)
 - [eBird](https://ebird.org/home)
+- [iNaturalist](https://www.inaturalist.org/)
 
 ### Facebook
 
 - [Bird Sightings](https://www.facebook.com/groups/1407072732845076)
 - [Birding Singapore](https://www.facebook.com/birdingsg/)
+- [Nature Society Singapore](https://www.facebook.com/groups/naturesocietysingapore/)
 - [Singapore Birders](https://www.facebook.com/groups/singaporebirdgroup)
 - [Singapore Wildlife Sightings](https://www.facebook.com/groups/179531089457)
+- [Wild Bird Club Singapore](https://www.facebook.com/groups/1859513570978226/)
 
 ### Instagram
 
-- [birds_cupids](https://www.instagram.com/birds_cupids/)
+- [@birds_cupids](https://www.instagram.com/birds_cupids/)
+- [@hyjgoesbirding](https://www.instagram.com/hyjgoesbirding)
+- [@naturewongsg](https://www.instagram.com/naturewongsg)
+- [@singapore_birds](https://www.instagram.com/singapore_birds/)
+- [@singapore_creatures](https://www.instagram.com/singapore_creatures/)
+- [@singaporebirder](https://www.instagram.com/singaporebirder/)
+- [@singaporebirds](https://www.instagram.com/singaporebir)
+- [@singaporebirdsjiji](https://www.instagram.com/singaporebirdsjiji/)
+- [@wild.singapore](https://www.instagram.com/wild.singapore/)
+- [@wildlifesingapore](https://www.instagram.com/wildlifesingapore/)
 
 ## 吃吃喝喝
 
+- Toast Box 土司工坊
+- Ya Kun Kaya Toast 亞坤咖椰吐司
 - [328 Katong Laksa](https://maps.app.goo.gl/xCENg5HQ6SGiZU7EA)
 - [Crown Bakery & Cafe](https://maps.app.goo.gl/aZnEvVQ3KrrhMHXE9)
 - [Jia Bin Klang Bak Kut Teh 嘉宾 巴生肉骨茶](https://maps.app.goo.gl/oxaMjMNkq67RzeuJ8)
