@@ -215,12 +215,14 @@
 
 在一些論壇會看有人回報鳥訊的地名會用每個詞的第一個字母當作縮寫，例如：
 
-- `HNP`: Hindhede Nature Park
-- `JLG`: Jurong Lake Gardens
-- `PRP`: Pasir Ris Park
-- `RRNP`: Rifle Range Nature Park
-- `SBG`: Singapore Botanic Gardens
-- `SBWR`: Sungei Buloh Wetland Reserve
+- `HNP`: Hindhede Nature Park 海希德自然公園
+- `JLG`: Jurong Lake Gardens 裕廊湖花園
+- `PRP`: Pasir Ris Park 白沙公園
+- `RRNP`: Rifle Range Nature Park 射靶場自然公園
+- `SBG`: Singapore Botanic Gardens 新加坡植物園
+- `SBWR`: Sungei Buloh Wetland Reserve 雙溪布洛濕地保護區
+- `WNP`: Windsor Nature Park 溫莎自然公園
+- `PU`: Pulau Ubin 烏敏島
 
 ## 其他
 
