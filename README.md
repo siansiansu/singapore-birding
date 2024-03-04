@@ -211,6 +211,17 @@
 - [結霜橋叻沙](https://maps.app.goo.gl/yr9mPrJVLykoxUGGA)
 - [阿秋甜品](https://maps.app.goo.gl/PXHaC5UYdaPN5bzy8)
 
+## 地名縮寫
+
+在一些論壇會看有人回報鳥訊的地名會用每個詞的第一個字母當作縮寫，例如：
+
+- `HNP`: Hindhede Nature Park
+- `JLG`: Jurong Lake Gardens
+- `PRP`: Pasir Ris Park
+- `RRNP`: Rifle Range Nature Park
+- `SBG`: Singapore Botanic Gardens
+- `SBWR`: Sungei Buloh Wetland Reserve
+
 ## 其他
 
 - 下午很常下雷雨，覺得天氣哪裡怪怪的話，請趕快找好躲避的地方。
