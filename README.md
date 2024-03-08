@@ -1,4 +1,4 @@
-# [筆記分享] 新加坡賞鳥自由行攻略
+# [賞鳥筆記] 新加坡賞鳥自由行攻略
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/singapore-birding)
 [![hackmd-github-sync-badge](https://hackmd.io/gW-duMSsQd6uO4A3hqBLAw/badge)](https://hackmd.io/gW-duMSsQd6uO4A3hqBLAw)
