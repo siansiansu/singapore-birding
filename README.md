@@ -4,12 +4,6 @@
 也寫給每位路癡體質和拉肚子體質的鳥友
 :::
 
-:::warning
-如果這篇賞鳥筆記對您有幫助，請答應我不要餵食及播放鳥音
-
-請安靜的觀察，結束後悄悄的離開
-:::
-
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/singapore-birding)
 [![hackmd-github-sync-badge](https://hackmd.io/gW-duMSsQd6uO4A3hqBLAw/badge)](https://hackmd.io/gW-duMSsQd6uO4A3hqBLAw)
 
@@ -248,3 +242,9 @@
 - 準備一些零錢，雖然到處都有販賣機，但有些販賣機不提供刷卡的。
 - 漫遊的話，用量其實不大，因為新加坡到處都可以連 Wi-Fi，再加上出發前已經查好交通，使用最基本的方案就可以了。
 - 雙層公車能不要上去樓上就不要上去，親眼看到有人從上面摔下來。
+
+:::warning
+如果這篇賞鳥筆記對您有幫助，請答應我不要隨意餵食及播放鳥音
+
+請安靜的觀察，結束後悄悄的離開
+:::
